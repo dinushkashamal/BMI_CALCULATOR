@@ -67,13 +67,17 @@ Your BMI is: 26.78
 - ✅ Make a GUI version with Tkinter.
 - ✅ Deploy it as a web app with Flask.
 
+---
 
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
 ## 🔥 Author
 
-**[dinushkashama]**  
-🖥️ Future AI-Bioinformatician | Python Enthusiast 🐍  
+**[Dinushka]**  
+🖥️ Future AI-Bioinformatician 👑 | Python Enthusiast 🐍  
 
 ---
